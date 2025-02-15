@@ -1,2 +1,2 @@
 # BigDataCourse
-Data saknas för project 3
+Unstructured code for the Big Data course. 
